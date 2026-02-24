@@ -1,0 +1,121 @@
+The tree below represents the folder AFTER it has been organized.
+Files are classified based on keywords first,then based on file extension.
+The files are grouped it folders showing their document type, the year it was created, and the month.
+
+C:\Users\DELL\Documents\sample folder 2\Sample_Folder>tree /f
+Folder PATH listing
+
+C:.
+├───Documents
+│   ├───Invoices
+│   │   └───2026
+│   │       └───February
+│   │               invoice_16.pptx
+│   │               invoice_17.docx
+│   │               invoice_25.zip
+│   │               invoice_30.zip
+│   │               invoice_36.docx
+│   │               invoice_37.png
+│   │               invoice_38.docx
+│   │               invoice_39.jpg
+│   │               invoice_58.jpg
+│   │               invoice_69.pptx
+│   │
+│   ├───PDFs
+│   │   └───2026
+│   │       └───February
+│   │               contract_0.pdf
+│   │               contract_21.pdf
+│   │               contract_46.pdf
+│   │               contract_63.pdf
+│   │               notes_42.pdf
+│   │               notes_49.pdf
+│   │               notes_5.pdf
+│   │               notes_61.pdf
+│   │               photo_40.pdf
+│   │               report_26.pdf
+│   │               report_72.pdf
+│   │
+│   ├───Receipts
+│   │   └───2026
+│   │       └───February
+│   │               receipt_14.png
+│   │               receipt_2.csv
+│   │               receipt_45.pptx
+│   │               receipt_47.pdf
+│   │               receipt_52.xlsx
+│   │               receipt_54.xlsx
+│   │               receipt_56.xlsx
+│   │               receipt_73.csv
+│   │
+│   ├───Spreadsheets
+│   │   └───2026
+│   │       └───February
+│   │               contract_18.xlsx
+│   │               contract_57.xlsx
+│   │               notes_29.xlsx
+│   │               notes_67.xlsx
+│   │               photo_12.xlsx
+│   │               report_20.xlsx
+│   │
+│   ├───TextFiles
+│   │   └───2026
+│   │       └───February
+│   │               notes_19.txt
+│   │               notes_8.txt
+│   │
+│   └───Word
+│       └───2026
+│           └───February
+│                   contract_62.docx
+│                   contract_71.docx
+│                   notes_50.docx
+│                   report_55.docx
+│                   report_68.docx
+│
+├───Images
+│   └───2026
+│       └───February
+│               contract_1.png
+│               contract_11.jpg
+│               contract_31.jpg
+│               contract_74.png
+│               notes_10.png
+│               notes_22.png
+│               notes_28.jpg
+│               notes_32.jpg
+│               notes_35.png
+│               notes_43.jpg
+│               notes_51.jpg
+│               notes_53.jpg
+│               notes_7.jpg
+│               photo_13.png
+│               photo_59.jpg
+│               photo_65.jpg
+│               photo_66.png
+│               report_23.png
+│               report_6.jpg
+│               report_64.jpg
+│
+├───Others
+│   └───2026
+│       └───February
+│               contract_3.pptx
+│               contract_33.csv
+│               contract_34.pptx
+│               contract_41.zip
+│               contract_48.csv
+│               photo_4.pptx
+│               photo_60.csv
+│               photo_9.csv
+│               report_15.pptx
+│               report_24.pptx
+│               report_27.csv
+│               report_44.csv
+│               report_70.csv
+│
+├───Random_Docs
+├───Subfolder_A
+└───Subfolder_B
+
+C:\Users\DELL\Documents\sample folder 2\Sample_Folder>

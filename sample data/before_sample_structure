@@ -1,0 +1,89 @@
+The tree below represents the structure of the folder before it had been organized by my program
+
+C:\Users\DELL\Documents\sample folder 2\Sample_Folder>tree /f
+
+C:.
+│   contract_1.png
+│   contract_11.jpg
+│   contract_3.pptx
+│   contract_34.pptx
+│   contract_48.csv
+│   contract_63.pdf
+│   invoice_38.docx
+│   notes_29.xlsx
+│   notes_32.jpg
+│   notes_35.png
+│   notes_5.pdf
+│   photo_65.jpg
+│   photo_9.csv
+│   receipt_56.xlsx
+│   report_15.pptx
+│   report_20.xlsx
+│   report_23.png
+│   report_27.csv
+│   report_44.csv
+│   report_55.docx
+│   report_6.jpg
+│   report_64.jpg
+│
+├───Random_Docs
+│       contract_41.zip
+│       contract_71.docx
+│       contract_74.png
+│       invoice_37.png
+│       invoice_69.pptx
+│       notes_53.jpg
+│       photo_40.pdf
+│       receipt_2.csv
+│       receipt_45.pptx
+│       receipt_52.xlsx
+│       report_26.pdf
+│       report_70.csv
+│
+├───Subfolder_A
+│       contract_0.pdf
+│       contract_21.pdf
+│       contract_31.jpg
+│       contract_57.xlsx
+│       contract_62.docx
+│       invoice_25.zip
+│       invoice_36.docx
+│       invoice_58.jpg
+│       notes_10.png
+│       notes_22.png
+│       notes_28.jpg
+│       notes_42.pdf
+│       notes_49.pdf
+│       notes_51.jpg
+│       notes_67.xlsx
+│       notes_8.txt
+│       photo_59.jpg
+│       receipt_14.png
+│       receipt_47.pdf
+│       receipt_73.csv
+│
+└───Subfolder_B
+        contract_18.xlsx
+        contract_33.csv
+        contract_46.pdf
+        invoice_16.pptx
+        invoice_17.docx
+        invoice_30.zip
+        invoice_39.jpg
+        notes_19.txt
+        notes_43.jpg
+        notes_50.docx
+        notes_61.pdf
+        notes_7.jpg
+        photo_12.xlsx
+        photo_13.png
+        photo_4.pptx
+        photo_60.csv
+        photo_66.png
+        receipt_54.xlsx
+        report_24.pptx
+        report_68.docx
+        report_72.pdf
+
+
+C:\Users\DELL\Documents\sample folder 2\Sample_Folder>
